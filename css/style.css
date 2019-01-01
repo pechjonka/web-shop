@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'MyriadProCond';
+    src: url('fonts/MyriadProCond.eot');
+    src: url('fonts/MyriadProCond.eot') format('embedded-opentype'),
+        url('fonts/MyriadProCond.woff2') format('woff2'),
+        url('fonts/MyriadProCond.woff') format('woff'),
+        url('fonts/MyriadProCond.ttf') format('truetype'),
+        url('fonts/MyriadProCond.svg#MyriadProCond') format('svg');
+}
+@font-face {
+    font-family: 'MyriadProSemibold_31650';
+    src: url('fonts/MyriadProSemibold_31650.eot');
+    src: url('fonts/MyriadProSemibold_31650.eot') format('embedded-opentype'),
+        url('fonts/MyriadProSemibold_31650.woff2') format('woff2'),
+        url('fonts/MyriadProSemibold_31650.woff') format('woff'),
+        url('fonts/MyriadProSemibold_31650.ttf') format('truetype'),
+        url('fonts/MyriadProSemibold_31650.svg#MyriadProSemibold_31650') format('svg');
+}
+@font-face {
+    font-family: 'ofont_ru_AvantGardeCTT';
+    src: url('fonts/ofont_ru_AvantGardeCTT.eot');
+    src: url('fonts/ofont_ru_AvantGardeCTT.eot') format('embedded-opentype'),
+        url('fonts/ofont_ru_AvantGardeCTT.woff2') format('woff2'),
+        url('fonts/ofont_ru_AvantGardeCTT.woff') format('woff'),
+        url('fonts/ofont_ru_AvantGardeCTT.ttf') format('truetype'),
+        url('fonts/ofont_ru_AvantGardeCTT.svg#ofont_ru_AvantGardeCTT') format('svg');
+}
+
+body {
+    background-color: aquamarine;
+}
+
+.anim {
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}
