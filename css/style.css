@@ -25,13 +25,3 @@
         url('fonts/ofont_ru_AvantGardeCTT.ttf') format('truetype'),
         url('fonts/ofont_ru_AvantGardeCTT.svg#ofont_ru_AvantGardeCTT') format('svg');
 }
-
-body {
-    background-color: aquamarine;
-}
-
-.anim {
-    width: 100px;
-    height: 100px;
-    background-color: brown;
-}
