@@ -25,3 +25,8 @@
         url('fonts/ofont_ru_AvantGardeCTT.ttf') format('truetype'),
         url('fonts/ofont_ru_AvantGardeCTT.svg#ofont_ru_AvantGardeCTT') format('svg');
 }
+
+header>img {
+    padding-top: 25px;
+    padding-left: 120px;
+}
