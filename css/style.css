@@ -26,7 +26,62 @@
         url('fonts/ofont_ru_AvantGardeCTT.svg#ofont_ru_AvantGardeCTT') format('svg');
 }
 
-header>img {
-    padding-top: 25px;
-    padding-left: 120px;
+.logo {
+    padding-top: 20px;
+    text-align: left;
+    position: absolute;
 }
+
+.contacts {
+    text-align: right;
+    padding-top: 20px;
+    position: relative;
+}
+
+.menu-list {
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-flex;
+    background-color: #03a8d5;
+    padding: 10px;
+    margin: 0px;
+    justify-content: space-between;
+    border-radius: 5px;
+    }
+
+.submenu {
+    list-style-type: none;    
+    background-color: #83d0e7;
+    padding: 10px;
+    margin: 0px;
+    position: absolute;
+    border-radius: 3px;
+    display: none;
+}
+
+li>a {
+    color: #fff;
+    
+}
+
+li>a:hover {
+    text-decoration: none;
+}
+
+.list {
+    font-size: 23px;
+}
+
+.submenu {
+    font-size: 17px;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color: #02a1cf;
+    padding-top: 50px;
+    font-family: Myriad Pro;
+    font-weight: bold;
+}
+
