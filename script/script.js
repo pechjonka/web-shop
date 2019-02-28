@@ -6,3 +6,4 @@ $('#menu-list1').click(function(){
 $('#menu-list2').click(function(){
 	$('#submenu2').fadeToggle();
 });
+
